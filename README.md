@@ -34,6 +34,11 @@ To fully replicate the experiment, run the scripts and notebooks inside the Code
 7. Metrics_and_figures.py
         Computes comparison metrics and generates the final figures for the analysis.
 
+## 📊 Execution flow diagram
+<p align="center">
+  <img src="diagram.png" alt="Execution Flow" width="500">
+</p>
+
 ## ⚙️ Requirements
 Python 3.8 or higher
 
@@ -51,10 +56,8 @@ Run each script or notebook following the order in the Execution order section.
 
 All generated results will be automatically saved in the experiments_pictures/ folder.
 
-## 📊 Execution flow diagram
-![Execution Flow](diagram.png)
-
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
