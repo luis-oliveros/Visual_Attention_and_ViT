@@ -43,6 +43,41 @@ To fully replicate the experiment, run the scripts and notebooks inside the Code
   <img src="diagram.png" alt="Execution Flow" width="500">
 </p>
 
+## 📷 Experimental Images
+
+Inside the `experiments_pictures/` folder you will find:
+
+- **`basketry_images/`** – Original experiment images for the *basketry* object.  
+- **`basketry_stats/`** – Gaze position surface maps for each participant, together with their X and Y normalized histograms.
+
+- **`jar_images/`** – Original experiment images for the *jar* object.  
+- **`jar_stats/`** – Gaze position surface maps for each participant, together with their X and Y normalized histograms.
+
+### 👜 Basketry – Examples
+**Original image**
+<p align="center">
+  <img src="experiments_pictures/basketry_images/basketry_01.jpg" alt="Basketry original" width="300">
+</p>
+
+**Participant results**
+<p align="center">
+  <img src="experiments_pictures/basketry_stats/basketry_01_Alberto_001_output_1_resumen.png" alt="Basketry Alberto" width="500"><br>
+  <img src="experiments_pictures/basketry_stats/basketry_01_Alicia_001_output_1_resumen.png" alt="Basketry Alicia" width="500">
+</p>
+
+### 🏺 Jar – Examples
+**Original image**
+<p align="center">
+  <img src="experiments_pictures/jar_images/jar_01.jpg" alt="Jar original" width="300">
+</p>
+
+**Participant results**
+<p align="center">
+  <img src="experiments_pictures/jar_stats/jar_01_Alberto_001_output_11_resumen.png" alt="Jar Alberto" width="500"><br>
+  <img src="experiments_pictures/jar_stats/jar_01_Alicia_001_output_11_resumen.png" alt="Jar Alicia" width="500">
+</p>
+
+
 ## ⚙️ Requirements
 Python 3.8 or higher
 
@@ -62,6 +97,7 @@ All generated results will be automatically saved in the experiments_pictures/ f
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
