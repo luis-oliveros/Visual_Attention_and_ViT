@@ -52,7 +52,9 @@ Run each script or notebook following the order in the Execution order section.
 All generated results will be automatically saved in the experiments_pictures/ folder.
 
 ## 📊 Execution flow diagram
+![Execution Flow](diagram.png)
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
